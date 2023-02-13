@@ -9,6 +9,3 @@
  - npm run start
 
 4. Happy hacking!
-
-
-
